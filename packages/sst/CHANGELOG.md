@@ -1,5 +1,11 @@
 # @serverless-stack/cli2
 
+## 2.5.2
+
+### Patch Changes
+
+- [#2759](https://github.com/serverless-stack/sst/pull/2759) [`372ff2deb`](https://github.com/serverless-stack/sst/commit/372ff2deb7a8368f427318a67bd2e12d17cd59d5) Thanks [@kevinggrimm](https://github.com/kevinggrimm)! - Add support for relative python imports
+
 ## 2.5.1
 
 ## 2.5.0
